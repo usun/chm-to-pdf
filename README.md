@@ -262,7 +262,7 @@ font_name = 'MyFont'
 
 ## 🙏 致谢
 
-感谢所有测试者和贡献者的支持！
+本项目是ClaudeCode编写的小工具，使用claude-opus-4-6，感谢AI大模型给我们带来的便利！
 
 ---
 
